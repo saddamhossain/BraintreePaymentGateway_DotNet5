@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BraintreePaymentGateway_DotNet5", "BraintreePaymentGateway_DotNet5\BraintreePaymentGateway_DotNet5.csproj", "{58A98B65-F26A-4843-A132-7D3D968217DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58A98B65-F26A-4843-A132-7D3D968217DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A98B65-F26A-4843-A132-7D3D968217DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A98B65-F26A-4843-A132-7D3D968217DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A98B65-F26A-4843-A132-7D3D968217DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {409AF37A-351E-4420-8052-D1EA75140479}
+	EndGlobalSection
+EndGlobal
